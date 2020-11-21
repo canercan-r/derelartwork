@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **derelartwork/derelartwork** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 
-![Derel Artwork](http://derelartwork/derelartwork.png)
+![Derel Artwork](https://github.com/derelartwork/derelartwork/blob/main/derelartwork.png)
 
